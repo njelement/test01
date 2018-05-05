@@ -1,0 +1,8 @@
+1£©install git
+2)git config --global user.name xxx
+3)git config --global user.email xxx@xx.com
+4)ssh-keygen -t rsa -c "xxx@xx.com"
+5)ssh -T git@github.com
+6)git remote add myorigin git@github.com:xx/test01.git
+7)git init
+8)git clone /path/to/repos    
